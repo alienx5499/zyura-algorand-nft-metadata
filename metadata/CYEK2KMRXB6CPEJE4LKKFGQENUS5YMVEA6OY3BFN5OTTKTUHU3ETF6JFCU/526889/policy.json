@@ -1,0 +1,43 @@
+{
+  "name": "ZYURA Policy 526889 AT908",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-algorand-nft-metadata/main/metadata/CYEK2KMRXB6CPEJE4LKKFGQENUS5YMVEA6OY3BFN5OTTKTUHU3ETF6JFCU/526889/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "2"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "526889"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "AT908"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "C5A46W"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2026-03-30T14:06:00.000Z"
+    },
+    {
+      "trait_type": "Premium (USD)",
+      "value": "$20.00"
+    },
+    {
+      "trait_type": "Coverage (USD)",
+      "value": "$500.00"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "CYEK2KMRXB6CPEJE4LKKFGQENUS5YMVEA6OY3BFN5OTTKTUHU3ETF6JFCU"
+    },
+    {
+      "trait_type": "On-chain Status",
+      "value": "Algorand wiring TODO"
+    }
+  ]
+}
