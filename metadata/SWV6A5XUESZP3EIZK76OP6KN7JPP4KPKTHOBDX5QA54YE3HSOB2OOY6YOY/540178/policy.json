@@ -1,0 +1,43 @@
+{
+  "name": "ZYURA Policy 540178 EQ441",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-algorand-nft-metadata/main/metadata/SWV6A5XUESZP3EIZK76OP6KN7JPP4KPKTHOBDX5QA54YE3HSOB2OOY6YOY/540178/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "540178"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "EQ441"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "XX6YYQ"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2026-03-28T09:54:00.000Z"
+    },
+    {
+      "trait_type": "Premium (USD)",
+      "value": "$12.00"
+    },
+    {
+      "trait_type": "Coverage (USD)",
+      "value": "$250.00"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "SWV6A5XUESZP3EIZK76OP6KN7JPP4KPKTHOBDX5QA54YE3HSOB2OOY6YOY"
+    },
+    {
+      "trait_type": "On-chain Status",
+      "value": "Pending mint"
+    }
+  ]
+}
