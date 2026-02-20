@@ -1,0 +1,43 @@
+{
+  "name": "ZYURA Policy 554879 CL007",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-algorand-nft-metadata/main/metadata/YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4/554879/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "4"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "554879"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "CL007"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "WRJN2B"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2026-04-08T23:42:00.000Z"
+    },
+    {
+      "trait_type": "Premium (USD)",
+      "value": "$22.00"
+    },
+    {
+      "trait_type": "Coverage (USD)",
+      "value": "$1,000.00"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4"
+    },
+    {
+      "trait_type": "On-chain Status",
+      "value": "Pending mint"
+    }
+  ]
+}
