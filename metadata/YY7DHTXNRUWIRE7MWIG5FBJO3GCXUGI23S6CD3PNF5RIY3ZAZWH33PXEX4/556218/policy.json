@@ -36,8 +36,12 @@
       "value": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4"
     },
     {
+      "trait_type": "NFT Asset ID",
+      "value": "755809340"
+    },
+    {
       "trait_type": "On-chain Status",
-      "value": "Pending mint"
+      "value": "Minted on Algorand"
     }
   ]
 }
