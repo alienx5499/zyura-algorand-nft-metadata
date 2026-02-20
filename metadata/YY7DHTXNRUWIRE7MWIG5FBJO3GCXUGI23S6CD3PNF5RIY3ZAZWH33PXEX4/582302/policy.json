@@ -1,0 +1,44 @@
+{
+  "name": "ZYURA Policy 582302 NW510",
+  "description": "Flight delay insurance policy from ZYURA. Coverage and terms are stored on-chain.",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-algorand-nft-metadata/main/metadata/YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4/582302/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "582302"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "NW510"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "2T796H"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2026-07-07T03:45:00.000Z"
+    },
+    {
+      "trait_type": "Premium (USD)",
+      "value": "$1.20"
+    },
+    {
+      "trait_type": "Coverage (USD)",
+      "value": "$100.00"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4"
+    },
+    {
+      "trait_type": "On-chain Status",
+      "value": "Pending mint"
+    }
+  ]
+}
